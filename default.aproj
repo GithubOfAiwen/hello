@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="gb2312"?>
+<project ver="8" name="自动拍牌程序" libEmbed="true" icon="..." ui="win" output="自动拍牌程序.exe" CompanyName="指信网络" FileDescription="自动拍牌程序" LegalCopyright="Copyright (C) zhangmg 2015" ProductName="自动拍牌程序" InternalName="自动拍牌程序" FileVersion="0.0.0.1" ProductVersion="0.0.0.1" publishDir="/Publish/">
+	<file name="main.aau" path="default.main.aau" comment="default.main.aau"/>
+	<folder name="资源文件" path="res" embed="true"/>
+</project>
